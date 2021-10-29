@@ -1,0 +1,13 @@
+1. Yes
+2. Yes
+3. Yes
+4. Yes
+5. Yes
+6. Yes
+7. Yes
+8. No
+9. Yes
+10. Yes
+
+Comments on Implementation Strategy:
+Combined the scope and type checking done during inlab assignments and handled extra cases.
